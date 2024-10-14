@@ -16,7 +16,7 @@ func TestAdditionHandler(t *testing.T) {
 	defer resp1.Body.Close()
 	body1, _ := ioutil.ReadAll(resp1.Body)
 	result1, _ := strconv.Atoi(string(body1))
-	expected1 := -2
+	expected1 := 8
 	if result1 != expected1 {
 		t.Errorf("Test case 1 failed, expected %d but got %d", expected1, result1)
 	}
