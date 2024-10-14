@@ -46,4 +46,4 @@ Ensure that the pipeline runs successfully.
 
 ### Submission
 
-Submit the URL of your GitHub repository to knguyen07@email.wm.edu 
+Submit the URL of your GitHub repository and a screenshot of the successful pipeline run to knguyen07@email.wm.edu 
